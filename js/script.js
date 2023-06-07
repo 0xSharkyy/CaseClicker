@@ -10,13 +10,9 @@ if (localStorage.getItem("username") === null) {
 	localStorage.setItem('username' , "modded")
 }
 	
-if (localStorage.getItem("username") === "sharkyy" || "banned" || "bnned" || "kfcjamal" || "roflzilla" || "toshi") {
-	localStorage.setItem('username', "wannabe owner")
-	alert("ur not the owner bud nice try")
-}
 var useravatar = localStorage.getItem('imgData');
 if (localStorage.getItem("imgData") === null) {
-	localStorage.setItem("imgData" , "https://i.imgur.com/ICK2lr1.jpg")
+	localStorage.setItem("imgData" , "https://user-images.githubusercontent.com/100317628/244176161-11b8b38f-aaae-4409-9786-5dac62439c2d.jpg")
 }
 
 var currentCase = "case1";
