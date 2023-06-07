@@ -22780,7 +22780,7 @@ var cases = {
 				}
 			},
 		case24: { 
-			milspec: {
+			knife: {
 				weap1: {
 					name: "knife",
 					price: 10000000000,
