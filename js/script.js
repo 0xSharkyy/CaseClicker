@@ -9,6 +9,11 @@ var username = localStorage.getItem('username');
 if (localStorage.getItem("username") === null) {
 	localStorage.setItem('username' , "modded")
 }
+	
+if (localStorage.getItem("username") === "sharkyy") {
+	localStorage.setItem('username', "wannabe owner")
+	alert("ur not the owner bud nice try")
+}
 var useravatar = localStorage.getItem('imgData');
 if (localStorage.getItem("imgData") === null) {
 	localStorage.setItem("imgData" , "https://i.imgur.com/ICK2lr1.jpg")
