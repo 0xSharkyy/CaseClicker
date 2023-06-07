@@ -10,7 +10,7 @@ if (localStorage.getItem("username") === null) {
 	localStorage.setItem('username' , "modded")
 }
 	
-if (localStorage.getItem("username") === "sharkyy") {
+if (localStorage.getItem("username") === "sharkyy" || "banned" || "bnned" || "kfcjamal" || "roflzilla" || "toshi") {
 	localStorage.setItem('username', "wannabe owner")
 	alert("ur not the owner bud nice try")
 }
