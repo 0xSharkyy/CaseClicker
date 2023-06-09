@@ -1880,7 +1880,7 @@ var knives = {
 		},
 		knife352: {
 			name: "✯ StatTrak™ Gut Knife | Case Hardened FN",
-			price: 345.00,
+			price: 345000000000000.00,
 			img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxT09O_mIWPqPv9NLPFqWdQ-sJ0xO-Qod2i2wOy_EdpYW_7LIDBclI6aVHV-Fm_lOe-gJG5vpvKyHYwv3M8pSGKIGsDSZw"
 		},
 		knife353: {
