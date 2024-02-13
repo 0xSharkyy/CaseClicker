@@ -1,5 +1,6 @@
-# CSGO-Case-Clicker
-A website-based CSGO case clicker: https://kingofkfcjamal.github.io/CaseClicker
+# CaseClicker
+This is the new most recent version of CaseClicker. It comes with a modded version and new cases and other things. You can find the latest link for the project under the repositories description.
 
-This is the source for the CSGO Clicker you know and love. Please expand on to it if you want. Would love to see what you guys can make for it.
+This might also be considered the new 'official' version of CSGO-CaseClicker because the other one hasn't had an update in around 5 years.
 
+If you find any bugs or features that you think I should add, please let me know in the pull request tab (because there isn't an issues tab) 
