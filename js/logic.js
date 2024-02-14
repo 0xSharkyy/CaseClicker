@@ -1,6 +1,7 @@
 (function(){
 var itemCounter = 0;
-var fps = 15;
+// no idea if this is frames per second or something else
+var fps = 30;
 
 var money = 1000000000;
 var username = localStorage.getItem('username');
